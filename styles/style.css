@@ -195,9 +195,8 @@
   padding-top: 100px;
   background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
-  background-size: contain;
+  background-size: contain 867px 637px;
   background-repeat: no-repeat;
-  background-size: 867px 637px;
   background-position: bottom left;
   height: 890px;
   box-sizing: border-box;
